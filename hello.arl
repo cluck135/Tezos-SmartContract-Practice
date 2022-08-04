@@ -5,4 +5,3 @@ variable msg : string = "Hello"
 entry input(name : string) {
   msg += (length(msg) > 5 ? "," : "") + " " + name
 }
-
