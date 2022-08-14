@@ -1,0 +1,63 @@
+{
+  "artifactUri": "ipfs://zdj7WdHukLquAGdvoAVQKJhL1VZY9cWAP4C9o73AXkDZVW34i",
+  "attributes": [
+  {
+  "name": "Background",
+  "value": "Purple"
+  },
+  {
+  "name": "Skin",
+  "value": "Green"
+  },
+  {
+  "name": "Skin Pattern",
+  "value": "Heavy"
+  },
+  {
+  "name": "Clothing",
+  "value": "Gardening Utility Belt"
+  },
+  {
+  "name": "Tail Spikes",
+  "value": "Bone"
+  },
+  {
+  "name": "Headwear",
+  "value": "Plain Black Spikes"
+  },
+  {
+  "name": "Bling Level",
+  "value": "$"
+  },
+  {
+  "name": "Eyewear",
+  "value": "Tech Scope"
+  },
+  {
+  "name": "Face",
+  "value": "Straight Tongue Sad"
+  }
+  ],
+  "creators": [
+  "Test Creator"
+  ],
+  "decimals": 0,
+  "description": "Just a ton of tests",
+  "displayUri": "ipfs://zdj7WcxpdoWdwiqNEX9QzN75TnD7Takwx2qRcCu4LdGWLT9LX",
+  "formats": [
+  {
+  "mimeType": "image/png",
+  "uri": "ipfs://zdj7WdHukLquAGdvoAVQKJhL1VZY9cWAP4C9o73AXkDZVW34i"
+  }
+  ],
+  "name": "Test Name of NFT",
+  "rights": "Nothing. All rights reserved.",
+  "royalties": {
+  "decimals": 2,
+  "shares": {
+  "tz1LLPWMyZ7gKsp3WnLfemyAYW6CoZoozku5": 5
+  }
+  },
+  "symbol": "BMTD",
+  "thumbnailUri": "ipfs://zb2rhjN3UWC9Nd6HXqgYvfQL9eZN7VmHFSz2P9bj4D9ayX4tm"
+  }
